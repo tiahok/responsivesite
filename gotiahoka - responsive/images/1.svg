@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="286" height="286" viewBox="0 0 286 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H286V286H0Z"/></clipPath>
+<clipPath id="c0"><path d="M0,288.4V0H287.2V288.4Z"/></clipPath>
+<clipPath id="c1"><path d="M0,287.2V0H287.2V287.2Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1{
+font-size: 34.70px;
+font-family: Poppins_a;
+fill: #ED2A24;
+}
+
+.g0{
+fill: #FFFFFF;
+}
+.g1{
+}
+.g2{
+fill: #ED2A24;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_1)">
+<path d="M0,0
+L0,286
+L286,286
+L286,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<g clip-path="url(#c0)">
+<path d="M0,0H287.2V288.4H0V0Z" class="g0"/>
+</g>
+<g clip-path="url(#c1)">
+<path d="M0,0H287.2V287.2H0V0Z" class="g0"/>
+<path d="M0,0H287.2V287.2H0V0Z" class="g1"/>
+</g>
+<path d="M245.9,245.9h6.5v6.5h-6.5v-6.5Z" class="g2"/>
+<path d="M33.7,39.9h6.6V246.2H33.7V39.9Z" class="g2"/>
+<path d="M33.7,245.9h6.6v6.5H33.7v-6.5Z" class="g2"/>
+<path d="M245.9,39.9h6.5V246.2h-6.5V39.9Z" class="g2"/>
+<path d="M39.9,245.9H246.2v6.5H39.9v-6.5Z" class="g2"/>
+<path d="M245.9,33.7h6.5v6.6h-6.5V33.7Z" class="g2"/>
+<path d="M33.7,33.7h6.6v6.6H33.7V33.7Z" class="g2"/>
+<path d="M39.9,33.7H246.2v6.6H39.9V33.7Z" class="g2"/>
+<text x="56" y="164" class="s1">tia </text>
+<text x="56" y="193" class="s1">hoka </text>
+<text x="56" y="222" class="s1">design </text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Poppins_a;
+	src: url("fonts/Poppins_a.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
